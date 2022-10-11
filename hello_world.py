@@ -1,9 +1,9 @@
-def print_hello():
-    print("Hello World!!")
+def print_python():
+    print("Hello, Python")
 
-def print_KIT():
-    print("Kumoh National Institute of Technology.")
-
-if __name__ == '__main__':
-    print_KIT()
-    print_hello()
+def print_meet():
+    print("Nice to meet you")
+    
+if __name__ == '__main__’:
+print_python()
+print_meet()
